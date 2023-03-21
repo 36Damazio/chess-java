@@ -1,6 +1,6 @@
 package chess;
 
-public class ChessExcepition extends RuntimeException{
+public class ChessExcepition extends RuntimeException {
   private static final long serialVersionUID = 1l;
 
   public ChessExcepition(String msg) {
