@@ -1,7 +1,5 @@
 package chess;
 
-import java.security.cert.CRLException;
-
 import boardgame.Position;
 
 public class ChessPosition {
